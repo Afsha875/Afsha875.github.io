@@ -1,0 +1,107 @@
+{
+  "heading": "$ ls -la skills/",
+  "categories": [
+    {
+      "name": "languages",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Python",
+        "C#",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Django REST Framework",
+        "Pydantic",
+        "Celery",
+        "SQLAlchemy",
+        "Django ORM"
+      ]
+    },
+    {
+      "name": "tools",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "MySQL",
+        "SQL Server",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Jenkins",
+        "GitHub Actions",
+        "CI/CD",
+        "Kafka",
+        "RabbitMQ",
+        "PyTest",
+        "OAuth 2.0",
+        "JWT",
+        "Prometheus",
+        "Grafana",
+        "Visual Studio",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Outlook"
+      ]
+    },
+    {
+      "name": "technical",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "REST APIs",
+        "API Development",
+        "Backend Services",
+        "Business Logic",
+        "API Integration",
+        "Microservices",
+        "OOP",
+        "Design Patterns",
+        "SOLID",
+        "Database Design",
+        "Data Modeling",
+        "Query Optimization",
+        "Asynchronous Processing",
+        "Message Queues",
+        "Unit Testing",
+        "Integration Testing",
+        "API Testing",
+        "Test Automation",
+        "Mocking",
+        "Debugging",
+        "Authentication",
+        "Authorization",
+        "RBAC",
+        "API Security",
+        "Logging",
+        "Monitoring",
+        "Profiling",
+        "Error Handling",
+        "Machine Learning",
+        "LLMs",
+        "AI Agents",
+        "Data Analytics",
+        "Agile/Scrum",
+        "SDLC",
+        "Sprint Planning"
+      ]
+    }
+  ],
+  "githubUsername": "Afsha875"
+}

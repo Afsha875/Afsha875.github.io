@@ -1,0 +1,54 @@
+{
+  "heading": "$ ps aux --sort=start_time",
+  "positions": [
+    {
+      "pid": "1337",
+      "company": "Capital One",
+      "title": "Python Backend Developer",
+      "location": "",
+      "startDate": "Jul 2025",
+      "endDate": "Present",
+      "status": "RUNNING",
+      "description": "Developed Python backend services and REST APIs supporting financial application workflows, improving backend reliability by approximately 18% through structured validation, exception handling, and reusable service components.\nEngineered API integrations across 4+ internal services, processing approximately 15K–20K requests per month while maintaining consistent request validation, response handling, and service-to-service communication.\nOptimized backend processing and database interactions for frequently used workflows, reducing average API response time by approximately 22% through query improvements and more efficient application logic.\nRefactored reusable Python modules using OOP, SOLID principles, clean code, and modular design, reducing duplicated backend logic by approximately 15% and simplifying recurring feature enhancements.\nDeveloped PyTest unit and integration tests for backend components and API endpoints, increasing automated test coverage to approximately 80% and reducing regression defects across application releases.\nDiagnosed and resolved approximately 8–12 production issues per month using application logs, debugging, exception analysis, and root-cause investigation, helping maintain stable backend service operations.\nCollaborated with QA, DevOps, product, and engineering teams across 2-week Agile sprints, contributing to approximately 2–3 backend releases per month through development, code reviews, testing, and deployment support.",
+      "achievements": [
+        "Developed Python backend services and REST APIs supporting financial application workflows, improving backend reliability by approximately 18% through structured validation, exception handling, and reusable service components.",
+        "Engineered API integrations across 4+ internal services, processing approximately 15K–20K requests per month while maintaining consistent request validation, response handling, and service-to-service communication.",
+        "Optimized backend processing and database interactions for frequently used workflows, reducing average API response time by approximately 22% through query improvements and more efficient application logic.",
+        "Refactored reusable Python modules using OOP, SOLID principles, clean code, and modular design, reducing duplicated backend logic by approximately 15% and simplifying recurring feature enhancements.",
+        "Developed PyTest unit and integration tests for backend components and API endpoints, increasing automated test coverage to approximately 80% and reducing regression defects across application releases."
+      ],
+      "technologies": [
+        "Python",
+        "REST APIs",
+        "PyTest",
+        "OOP",
+        "SOLID",
+        "Agile",
+        "DevOps"
+      ]
+    },
+    {
+      "pid": "1237",
+      "company": "Hexagon PVT LTD",
+      "title": "Python Developer",
+      "location": "",
+      "startDate": "Jan 2020",
+      "endDate": "Jul 2023",
+      "status": "STOPPED",
+      "description": "Developed Python backend components for enterprise applications supporting approximately 20K+ monthly data transactions, implementing business logic and reusable services for core application workflows.\nDesigned and enhanced REST APIs for internal application integrations, handling approximately 5K–8K API requests per month while improving API-related defect rates by approximately 18%.\nOptimized database access and SQL-based data retrieval for frequently executed backend operations, reducing query execution time by approximately 20% through improved queries and data-access logic.\nRefactored approximately 15+ reusable Python modules using object-oriented and modular design practices, reducing code duplication by approximately 17% and improving maintainability across application components.\nCreated unit and integration tests for backend services and API functionality, achieving approximately 78% test coverage across assigned modules and identifying defects earlier in the development lifecycle.\nInvestigated and resolved approximately 10–15 application, API, and database defects per month, using logs, debugging, and root-cause analysis to reduce recurring backend issues by approximately 15%.\nSupported approximately 2–3 application releases per month, performing backend validation and coordinating with QA and technical teams to reduce post-release defects by approximately 18%.\nParticipated in code reviews and Agile development activities within a 6-8 member development team, contributing implementation feedback, technical documentation, and backend troubleshooting support.",
+      "achievements": [
+        "Developed Python backend components for enterprise applications supporting approximately 20K+ monthly data transactions, implementing business logic and reusable services for core application workflows.",
+        "Designed and enhanced REST APIs for internal application integrations, handling approximately 5K–8K API requests per month while improving API-related defect rates by approximately 18%.",
+        "Optimized database access and SQL-based data retrieval for frequently executed backend operations, reducing query execution time by approximately 20% through improved queries and data-access logic.",
+        "Refactored approximately 15+ reusable Python modules using object-oriented and modular design practices, reducing code duplication by approximately 17% and improving maintainability across application components.",
+        "Created unit and integration tests for backend services and API functionality, achieving approximately 78% test coverage across assigned modules and identifying defects earlier in the development lifecycle."
+      ],
+      "technologies": [
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Agile"
+      ]
+    }
+  ]
+}

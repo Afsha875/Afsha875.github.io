@@ -1,0 +1,22 @@
+{
+  "heading": "$ cat about.md",
+  "bio": [
+    "Python Backend Developer with 4+ years of experience building backend applications, REST APIs, service integrations, and business-critical software across financial services and enterprise technology environments. Experienced in developing Python services, implementing business logic, integrating databases and APIs, troubleshooting production issues, and improving application reliability and performance.",
+    "Strong foundation in REST APIs, SQL, MySQL, SQL Server, MongoDB, testing, debugging, CI/CD-supported development, and Agile/Scrum practices. Brings additional experience with C#, machine learning, LLMs, and AI agents, with a focus on maintainable backend solutions and effective collaboration across engineering and QA teams."
+  ],
+  "highlights": [
+    {
+      "label": "Years Experience",
+      "value": "1+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "2+"
+    },
+    {
+      "label": "Technologies",
+      "value": "77+"
+    }
+  ],
+  "currentFocus": "Python Backend Developer"
+}

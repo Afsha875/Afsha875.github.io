@@ -1,0 +1,24 @@
+{
+  "heading": "$ cat /var/log/education.log",
+  "entries": [
+    {
+      "institution": "Cleveland State University",
+      "degree": "Master's",
+      "field": "Information Systems",
+      "startDate": "Aug 2023",
+      "endDate": "May 2025",
+      "gpa": "",
+      "honors": []
+    },
+    {
+      "institution": "G Narayanamma Institute of Technology & Science",
+      "degree": "Bachelor's",
+      "field": "Information Technology",
+      "startDate": "Aug 2016",
+      "endDate": "Jul 2020",
+      "gpa": "",
+      "honors": []
+    }
+  ],
+  "certifications": []
+}

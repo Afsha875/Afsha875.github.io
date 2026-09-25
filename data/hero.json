@@ -1,0 +1,52 @@
+{
+  "asciiName": [
+    "=================",
+    "  AFSHA FATHIMA  ",
+    "================="
+  ],
+  "name": "AFSHA FATHIMA",
+  "tagline": "Available for work",
+  "roles": [
+    "Python Backend Developer",
+    "Python Developer"
+  ],
+  "bootSequence": [
+    "[OK] Loading kernel modules...",
+    "[OK] Initializing network interfaces...",
+    "[OK] Mounting filesystems...",
+    "[OK] Starting SSH daemon...",
+    "[OK] Loading portfolio data...",
+    "[OK] System ready."
+  ],
+  "techTags": [
+    "Python",
+    "C#",
+    "SQL",
+    "HTML",
+    "CSS",
+    "FastAPI"
+  ],
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Afsha875",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/afsha-fathima-lnu-a29996298/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:fathimaafsha08@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "resumeUrl": "",
+  "stats": {
+    "experience": "1+ years",
+    "projects": 2,
+    "commits": "500+"
+  }
+}

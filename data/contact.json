@@ -1,0 +1,12 @@
+{
+  "heading": "$ mail -s 'Hello' visitor@portfolio",
+  "subheading": "I'm always interested in hearing about new projects and opportunities. Let's connect.",
+  "email": "fathimaafsha08@gmail.com",
+  "phone": "+1 203-887-2794",
+  "location": "Cleveland, Ohio",
+  "availability": "Open to opportunities",
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/afsha-fathima-lnu-a29996298/"
+  },
+  "formAction": ""
+}

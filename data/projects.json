@@ -1,0 +1,160 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "Ruby",
+        "Shell"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Ruby",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "isNew": false
+    },
+    {
+      "name": "sql-datawarehouse-project",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [
+        "TSQL"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "TSQL",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/sql-datawarehouse-project",
+      "isNew": false
+    },
+    {
+      "name": "bookstoreapp-distributed-application",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Java",
+        "Dockerfile",
+        "JavaScript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/bookstoreapp-distributed-application",
+      "isNew": false
+    },
+    {
+      "name": "advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "description": "Production-ready application with modern architecture",
+      "technologies": [
+        "Java",
+        "JavaScript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "isNew": false
+    },
+    {
+      "name": "java_chat_system",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Java"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/java_chat_system",
+      "isNew": false
+    },
+    {
+      "name": "build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Java"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
+      "isNew": false
+    },
+    {
+      "name": "agentgate",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/agentgate",
+      "isNew": false
+    },
+    {
+      "name": "frontdesk",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "Makefile",
+        "Dockerfile",
+        "Mako",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/frontdesk",
+      "isNew": false
+    },
+    {
+      "name": "accountill",
+      "description": "Comprehensive project exploring software design patterns",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Dockerfile",
+        "Procfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/accountill",
+      "isNew": false
+    },
+    {
+      "name": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/contribution-history",
+      "isNew": false
+    },
+    {
+      "name": "ecommerce-microservice-backend-app",
+      "description": "Fully functional implementation with comprehensive features",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/Afsha875/ecommerce-microservice-backend-app",
+      "isNew": false
+    }
+  ]
+}

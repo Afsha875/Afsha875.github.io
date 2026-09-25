@@ -1,0 +1,17 @@
+{
+  "copyright": "AFSHA FATHIMA",
+  "year": "2026",
+  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/afsha-fathima-lnu-a29996298/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:fathimaafsha08@gmail.com",
+      "icon": "email"
+    }
+  ]
+}
