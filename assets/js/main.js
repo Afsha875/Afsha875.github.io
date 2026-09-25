@@ -378,6 +378,7 @@
       return '<div class="experience-card">' +
         '<div class="exp-header">' +
           '<div class="exp-header-left">' +
+            (pos.logo ? '<img class="exp-logo" src="' + esc(pos.logo) + '" alt="' + esc(pos.company) + ' logo">' : '') +
             '<span class="exp-company">' + esc(pos.company) + '</span>' +
             (statusLabel ? '<span class="exp-status running">' + statusLabel + '</span>' : '') +
           '</div>' +
@@ -467,6 +468,7 @@
       linksHTML += '</div>';
 
       return '<div class="project-card">' +
+        (proj.image ? '<img class="project-image" src="' + esc(proj.image) + '" alt="' + esc(proj.name) + ' preview" loading="lazy" onerror="this.remove()">' : '') +
         newBadge +
         '<div class="project-name"><span class="lang-dot ' + langClass + '"></span>' + esc(proj.name) + '</div>' +
         '<div class="project-description">' + esc(proj.description) + '</div>' +

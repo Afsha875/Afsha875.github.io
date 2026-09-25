@@ -25,7 +25,8 @@
         "SOLID",
         "Agile",
         "DevOps"
-      ]
+      ],
+      "logo": "assets/img/logos/capitalone.png"
     },
     {
       "pid": "1237",
@@ -48,7 +49,8 @@
         "REST APIs",
         "SQL",
         "Agile"
-      ]
+      ],
+      "logo": "assets/img/logos/hexagon.png"
     }
   ]
 }
