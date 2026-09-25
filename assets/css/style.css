@@ -1958,3 +1958,46 @@ main {
 .exp-header-left { display: flex; align-items: center; gap: 0.75rem; }
 .exp-logo { width: 32px; height: 32px; object-fit: contain; background: #fff; border: 2px solid #000; padding: 2px; }
 .project-image { display: block; width: calc(100% + 3rem); margin: -1.5rem -1.5rem 1rem; max-width: none; aspect-ratio: 16 / 9; object-fit: cover; border-bottom: 2px solid #000; }
+
+/* ============ Colour theme ============ */
+:root {
+  --bg: #fff6e5;
+  --c-pink: #ff5ca8; --c-yellow: #ffd23f; --c-blue: #3a86ff; --c-green: #06d6a0; --c-orange: #ff8c42; --c-purple: #8b5cf6;
+}
+body { background-color: var(--bg); }
+#navbar { background: var(--c-yellow); }
+.nav-links a:hover, .nav-links a.active { background: var(--c-pink); color: #000; }
+.status-badge { background: var(--c-green); color: #000; border-color: #000; }
+.hero-name { background: linear-gradient(90deg, var(--c-pink), var(--c-orange), var(--c-purple), var(--c-blue)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+.section-heading { display: inline-block; background: linear-gradient(transparent 62%, var(--c-yellow) 62%); }
+#about .section-heading { background: linear-gradient(transparent 62%, var(--c-pink) 62%); }
+#experience .section-heading { background: linear-gradient(transparent 62%, var(--c-green) 62%); }
+#skills .section-heading { background: linear-gradient(transparent 62%, var(--c-blue) 62%); }
+#projects .section-heading { background: linear-gradient(transparent 62%, var(--c-orange) 62%); }
+#education .section-heading { background: linear-gradient(transparent 62%, var(--c-purple) 62%); }
+.tech-tag:nth-child(6n+1), .exp-tech-badge:nth-child(6n+1), .project-tech-badge:nth-child(6n+1) { background: var(--c-pink); }
+.tech-tag:nth-child(6n+2), .exp-tech-badge:nth-child(6n+2), .project-tech-badge:nth-child(6n+2) { background: var(--c-yellow); }
+.tech-tag:nth-child(6n+3), .exp-tech-badge:nth-child(6n+3), .project-tech-badge:nth-child(6n+3) { background: var(--c-green); }
+.tech-tag:nth-child(6n+4), .exp-tech-badge:nth-child(6n+4), .project-tech-badge:nth-child(6n+4) { background: var(--c-blue); color: #fff; }
+.tech-tag:nth-child(6n+5), .exp-tech-badge:nth-child(6n+5), .project-tech-badge:nth-child(6n+5) { background: var(--c-orange); }
+.tech-tag:nth-child(6n), .exp-tech-badge:nth-child(6n), .project-tech-badge:nth-child(6n) { background: var(--c-purple); color: #fff; }
+.tech-tag, .exp-tech-badge, .project-tech-badge { color: #000; border-color: #000; }
+.tech-tag:nth-child(6n+4), .tech-tag:nth-child(6n), .exp-tech-badge:nth-child(6n+4), .exp-tech-badge:nth-child(6n), .project-tech-badge:nth-child(6n+4), .project-tech-badge:nth-child(6n) { color: #fff; }
+.experience-card:nth-child(odd) { box-shadow: 6px 6px 0 var(--c-pink); }
+.experience-card:nth-child(even) { box-shadow: 6px 6px 0 var(--c-blue); }
+.project-card:nth-child(4n+1) { box-shadow: 6px 6px 0 var(--c-pink); }
+.project-card:nth-child(4n+2) { box-shadow: 6px 6px 0 var(--c-blue); }
+.project-card:nth-child(4n+3) { box-shadow: 6px 6px 0 var(--c-green); }
+.project-card:nth-child(4n) { box-shadow: 6px 6px 0 var(--c-orange); }
+.education-card { box-shadow: 6px 6px 0 var(--c-purple); }
+.skill-category-card:nth-child(4n+1) { background: #ffe0ef; }
+.skill-category-card:nth-child(4n+2) { background: #dcecff; }
+.skill-category-card:nth-child(4n+3) { background: #d5f7ec; }
+.skill-category-card:nth-child(4n) { background: #ffe9d6; }
+.about-avatar-shadow { background: var(--c-pink); }
+.highlight-item:nth-child(1) .highlight-value { color: var(--c-pink); }
+.highlight-item:nth-child(2) .highlight-value { color: var(--c-blue); }
+.highlight-item:nth-child(3) .highlight-value { color: var(--c-green); }
+.btn-primary, .btn-submit { background: var(--c-pink); color: #000; }
+.social-link:hover { background: var(--c-yellow); color: #000; }
+.footer-marquee { background: var(--c-purple); color: #fff; }

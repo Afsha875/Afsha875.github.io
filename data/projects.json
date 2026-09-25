@@ -13,7 +13,8 @@
       "language": "Ruby",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/centralized-asset-management-system-with-compliance-self-audit-dashboard",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/asset-management.svg"
     },
     {
       "name": "sql-datawarehouse-project",
@@ -26,7 +27,8 @@
       "language": "TSQL",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/sql-datawarehouse-project",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/sql-datawarehouse.svg"
     },
     {
       "name": "bookstoreapp-distributed-application",
@@ -41,7 +43,8 @@
       "language": "Java",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/bookstoreapp-distributed-application",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/bookstore.svg"
     },
     {
       "name": "advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
@@ -55,7 +58,8 @@
       "language": "Java",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/online-banking.svg"
     },
     {
       "name": "java_chat_system",
@@ -68,7 +72,8 @@
       "language": "Java",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/java_chat_system",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/chat-system.svg"
     },
     {
       "name": "build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
@@ -81,7 +86,8 @@
       "language": "Java",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/build-a-recommendation-engine-example-with-spring-boot-and-aerospike",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/recommendation-engine.svg"
     },
     {
       "name": "agentgate",
@@ -95,7 +101,8 @@
       "language": "Python",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/agentgate",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/agentgate.svg"
     },
     {
       "name": "frontdesk",
@@ -115,7 +122,8 @@
       "language": "Python",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/frontdesk",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/frontdesk.svg"
     },
     {
       "name": "accountill",
@@ -132,7 +140,8 @@
       "language": "JavaScript",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/accountill",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/accountill.svg"
     },
     {
       "name": "contribution-history",
@@ -154,7 +163,8 @@
       "language": "",
       "liveUrl": "",
       "githubUrl": "https://github.com/Afsha875/ecommerce-microservice-backend-app",
-      "isNew": false
+      "isNew": false,
+      "image": "assets/img/projects/ecommerce-microservices.svg"
     }
   ]
 }
